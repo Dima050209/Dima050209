@@ -8,9 +8,7 @@ Passionate about **clean architecture, performance optimization, automated testi
 
 ### **GlobalLogic – Frontend Developer**  
 
-At GlobalLogic, I worked on creating **forms for driver and vehicle registration**, including driver–vehicle assignments, using **React Hook Form** and **Zod**, which made driver–vehicle management seamless. I developed **availability tables with React Table** to help managers quickly monitor operations and implemented **Recharts-based dashboards** to visualize KPIs, enabling faster data-driven decisions.  
-
-To improve code quality and maintainability, I increased **TypeScript coverage**, enabled strict mode, and minimized `any`/`unknown` usage. Applying **Feature-Sliced Design** principles improved development speed and onboarding efficiency. I also **optimized performance** through code-splitting and lazy loading, reducing initial load times.  
+At GlobalLogic, I worked on **driver and vehicle management systems** using **React Hook Form**, **Zod**, and **React Table**, making operations smoother for managers. I implemented **data dashboards with Recharts**, enabling faster data-driven decisions, and **optimized TypeScript usage** for safer, maintainable code. Applying **Feature-Sliced Design** and **lazy loading** improved development speed and performance.  
 
 **Technologies:** React.js, Next.js, Redux, Tailwind CSS, Tanstack Query, Zod, React Hook Form, Shadcn/ui, Jest  
 
@@ -18,11 +16,10 @@ To improve code quality and maintainability, I increased **TypeScript coverage**
 
 ### **Promova – Frontend Developer**  
 
-At Promova, I built a **role-based dashboard system** from scratch using **Next.js Router API** and **Tanstack Query**, which improved UX by showing users only the routes they could access. I enhanced question/answer pages with **Shadcn/ui**, making progress tracking and validation more intuitive.  
-
-I also worked with **JWT authentication**, setting up private route protection and access/refresh token management, which streamlined the user experience and avoided unnecessary reauthorization. To ensure high code quality, I wrote **unit and integration tests with Jest**, which helped reduce the bug rate by around 5%.  
+At Promova, I built a **role-based dashboard system** using **Next.js Router API** and **Tanstack Query** to improve UX. I enhanced question/answer pages with **Shadcn/ui** and worked with **JWT authentication** to streamline user access and improve security. I also added **unit and integration tests with Jest** to maintain code quality.  
 
 **Technologies:** React.js, Next.js, Redux, Tailwind CSS, Tanstack Query, Zod, React Hook Form, Shadcn/ui, Jest  
+
 
 ---
 
