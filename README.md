@@ -4,25 +4,6 @@ Passionate about **clean architecture, performance optimization, automated testi
 
 ---
 
-## 💼 Experience
-
-### **GlobalLogic – Frontend Developer**  
-
-At GlobalLogic, I worked on **driver and vehicle management systems** using **React Hook Form**, **Zod**, and **React Table**, making operations smoother for managers. I implemented **data dashboards with Recharts**, enabling faster data-driven decisions, and **optimized TypeScript usage** for safer, maintainable code. Applying **Feature-Sliced Design** and **lazy loading** improved development speed and performance.  
-
-**Technologies:** React.js, Next.js, Redux, Tailwind CSS, Tanstack Query, Zod, React Hook Form, Shadcn/ui, Jest  
-
----
-
-### **Promova – Frontend Developer**  
-
-At Promova, I built a **role-based dashboard system** using **Next.js Router API** and **Tanstack Query** to improve UX. I enhanced question/answer pages with **Shadcn/ui** and worked with **JWT authentication** to streamline user access and improve security. I also added **unit and integration tests with Jest** to maintain code quality.  
-
-**Technologies:** React.js, Next.js, Redux, Tailwind CSS, Tanstack Query, Zod, React Hook Form, Shadcn/ui, Jest  
-
-
----
-
 ## 🛠 Skills
 
 I specialize in **modern frontend development**, including **React.js, Next.js, Redux, JavaScript, TypeScript, React-Router, Tailwind CSS**, and **Tanstack Query**. I use **Zod** and **React Hook Form** for form validation, and **Shadcn/ui** and **Storybook** for consistent UI development.  
