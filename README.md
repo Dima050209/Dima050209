@@ -5,5 +5,5 @@ Frontend Developer with <b>more than 3 years</b> of experience building <b>inter
 
 dmytrokharchenko.work1@gmail.com
 
-![React.js](https://img.icons8.com/?size=100&id=t5K2CR8feVdX&format=png&color=000000) ![Next.js](https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000)  ![Redux](https://img.icons8.com/color/48/redux.png) ![TypeScript](https://img.icons8.com/color/48/typescript.png) ![JavaScript](https://img.icons8.com/color/48/javascript--v2.png)
+![React.js](https://img.icons8.com/?size=50&id=t5K2CR8feVdX&format=png&color=000000) ![Next.js](https://img.icons8.com/?size=50&id=yUdJlcKanVbh&format=png&color=000000)  ![Redux](https://img.icons8.com/color/48/redux.png) ![TypeScript](https://img.icons8.com/color/48/typescript.png) ![JavaScript](https://img.icons8.com/color/48/javascript--v2.png)
 
