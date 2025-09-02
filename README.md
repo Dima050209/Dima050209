@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Dmytro  
 **Frontend Developer** with <b>more than 3 years</b> of experience building **interactive, responsive, and scalable web applications**.  
 Passionate about **clean architecture, performance optimization, automated testing**, and **writing maintainable code** that delivers real business value.  
 
